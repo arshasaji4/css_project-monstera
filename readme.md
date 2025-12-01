@@ -3,7 +3,8 @@ A responsive, modern landing page for a Monstera plant product/brand built using
 
 ## Sample 
 ![img](./image.png)
-
+## live
+[live@](https://arshamonstera.netlify.app/)
 
 ## 📌 Project Overview
 This project is a minimal and elegant plant-themed landing page showcasing a Monstera plant collection. It includes a navigation bar, hero section, category icons, and responsive images designed using Tailwind CSS utility classes.
